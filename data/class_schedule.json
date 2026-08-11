@@ -1,0 +1,93 @@
+[
+  {
+    "course": "ISM 4212 - Systems Analysis",
+    "day": "Mon",
+    "start": "09:30",
+    "end": "10:45",
+    "location": "Hough Hall 120"
+  },
+  {
+    "course": "STA 4210 - Regression Analysis",
+    "day": "Mon",
+    "start": "11:00",
+    "end": "11:50",
+    "location": "Turlington 2306"
+  },
+  {
+    "course": "ISM 4323 - Data Analytics",
+    "day": "Mon",
+    "start": "12:30",
+    "end": "13:45",
+    "location": "Hough Hall 250"
+  },
+  {
+    "course": "GEB 4522 - Business Ethics",
+    "day": "Tue",
+    "start": "09:30",
+    "end": "10:45",
+    "location": "Heavener Hall 130"
+  },
+  {
+    "course": "ISM 4930 - AI in Business",
+    "day": "Tue",
+    "start": "11:00",
+    "end": "12:15",
+    "location": "Hough Hall 120"
+  },
+  {
+    "course": "ISM 4930 - AI in Business Lab",
+    "day": "Tue",
+    "start": "12:30",
+    "end": "13:20",
+    "location": "Hough Hall Lab 101"
+  },
+  {
+    "course": "ISM 4212 - Systems Analysis",
+    "day": "Wed",
+    "start": "09:30",
+    "end": "10:45",
+    "location": "Hough Hall 120"
+  },
+  {
+    "course": "STA 4210 - Regression Analysis",
+    "day": "Wed",
+    "start": "11:00",
+    "end": "11:50",
+    "location": "Turlington 2306"
+  },
+  {
+    "course": "ISM 4323 - Data Analytics",
+    "day": "Wed",
+    "start": "12:30",
+    "end": "13:45",
+    "location": "Hough Hall 250"
+  },
+  {
+    "course": "GEB 4522 - Business Ethics",
+    "day": "Thu",
+    "start": "09:30",
+    "end": "10:45",
+    "location": "Heavener Hall 130"
+  },
+  {
+    "course": "ISM 4930 - AI in Business",
+    "day": "Thu",
+    "start": "11:00",
+    "end": "12:15",
+    "location": "Hough Hall 120"
+  },
+  {
+    "course": "STA 4210 - Regression Analysis",
+    "day": "Fri",
+    "start": "11:00",
+    "end": "11:50",
+    "location": "Turlington 2306"
+  },
+  {
+    "course": "MAN 4720 - Strategic Management",
+    "day": "Fri",
+    "start": "12:30",
+    "end": "15:15",
+    "location": "Heavener Hall 240"
+  }
+]
